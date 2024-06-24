@@ -1,6 +1,6 @@
 {
   "name": "@wikiline/webfont-kazmann-sans",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Package for integrating WebFont Kazmann Sans",
   "main": "css/all.css",
   "files": [
